@@ -1,0 +1,9 @@
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\bin\Debug\FinalExamElliott.exe.config
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\bin\Debug\FinalExamElliott.exe
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\bin\Debug\FinalExamElliott.pdb
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\obj\Debug\FinalExamElliott.csprojResolveAssemblyReference.cache
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\obj\Debug\FinalExamElliott.Form1.resources
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\obj\Debug\FinalExamElliott.Properties.Resources.resources
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\obj\Debug\FinalExamElliott.csproj.GenerateResource.Cache
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\obj\Debug\FinalExamElliott.exe
+c:\users\kelse\documents\visual studio 2015\Projects\FinalExamElliott\FinalExamElliott\obj\Debug\FinalExamElliott.pdb
